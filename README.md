@@ -54,7 +54,7 @@ const rizky = {
 > The most powerful zero-backend link-in-bio builder. Design visually with a live editor, export as self-contained static HTML + PWA. Features AES-256 link encryption, QRIS donations, portfolio grid, FAQ accordion, real-time search — all with **zero server, zero database, zero cost**.
 
 [![v2.0.0](https://img.shields.io/badge/Release-v2.0.0-a78bfa?style=for-the-badge&labelColor=0d1117)](https://github.com/ribato22/voltbio/releases/tag/v2.0.0)
-[![Stars](https://img.shields.io/github/stars/ribato22/voltbio?style=flat-square&logo=github)](https://github.com/ribato22/voltbio/stargazers)
+[![Stars](https://img.shields.io/github/stars/ribato22/voltbio?style=for-the-badge&logo=github)](https://github.com/ribato22/voltbio/stargazers)
 [![Demo](https://img.shields.io/badge/Live_Demo-▶-25D366?style=for-the-badge&labelColor=0d1117)](https://ribato22.github.io/voltbio/)
 
 <br/>
@@ -65,6 +65,7 @@ const rizky = {
 >
 > An open-source billing platform for SMEs. Handles invoices, CRM, POS, HR & payroll, and WhatsApp integration.
 
+[![Stars](https://img.shields.io/badge/Stars-2-25D366?style=for-the-badge&logo=github)](https://github.com/ribato22/BillKu/stargazers)
 [![Docker](https://img.shields.io/badge/Docker-Hub-2496ED?style=for-the-badge&labelColor=0d1117&logo=docker)](https://hub.docker.com/r/ribato/billku)
 
 <br/>
@@ -75,7 +76,7 @@ const rizky = {
 >
 > A powerful, self-hosted WhatsApp Business API Gateway built with **NestJS** and **Next.js**.
 
-[![Stars](https://img.shields.io/github/stars/ribato22/MultiWA?style=flat-square&logo=github)](https://github.com/ribato22/MultiWA/stargazers)
+[![Stars](https://img.shields.io/github/stars/ribato22/MultiWA?style=for-the-badge&logo=github)](https://github.com/ribato22/MultiWA/stargazers)
 
 </div>
 
