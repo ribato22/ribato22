@@ -30,7 +30,7 @@ const rizky = {
 ```
 
 ### What I'm working on
-- **[NexCal](https://github.com/ribato22/nexcal)** — Self-Hosted Booking System with 3-Layer Anti Double-Booking
+- **[NexCal](https://github.com/ribato22/nexcal)** — B2B SaaS Booking System with Multi-Provider RBAC & 3-Layer Anti Double-Booking
 - **[VoltBio](https://github.com/ribato22/voltbio)** — Zero-Backend Link-in-Bio Builder with PWA & Static Export
 - **[BillKu](https://github.com/ribato22/BillKu)** — Open Source Billing & Business Management Platform
 - **[MultiWA](https://github.com/ribato22/MultiWA)** — Open Source WhatsApp Business API Gateway
@@ -60,13 +60,13 @@ const rizky = {
 
 <br/>
 
-### [📅 NexCal — Self-Hosted Booking System](https://github.com/ribato22/nexcal)
+### [📅 NexCal — Multi-Provider Booking System](https://github.com/ribato22/nexcal)
 
-> **Next.js 16** | **PostgreSQL** | **Docker-Ready** | **Privacy-First**
+> **B2B SaaS Architecture** | **Multi-Provider RBAC** | **WhatsApp Reminders** | **Google Calendar Sync**
 >
-> A free, open-source Calendly alternative for healthcare practitioners. Features a public booking wizard, admin dashboard with real-time stats, schedule management, and a **3-Layer Anti Double-Booking** system (Zod → Slot Re-check → DB Constraint) that guarantees zero conflicts.
+> A free, open-source Calendly alternative built for **teams** — clinics with multiple doctors, salons with many stylists. Features an RBAC system (OWNER/STAFF roles), 5-step provider-aware booking wizard, staff management, and a **3-Layer Anti Double-Booking** engine. Self-hosted, Docker-ready, zero subscription fees.
 
-[![v1.0.0](https://img.shields.io/badge/Release-v1.0.0-06B6D4?style=for-the-badge&labelColor=0d1117)](https://github.com/ribato22/nexcal/releases/tag/v1.0.0)
+[![v2.1.0](https://img.shields.io/badge/Release-v2.1.0-06B6D4?style=for-the-badge&labelColor=0d1117)](https://github.com/ribato22/nexcal/releases/tag/v2.1.0)
 [![Self-Hosted](https://img.shields.io/badge/Self--Hosted-Docker-2496ED?style=for-the-badge&labelColor=0d1117&logo=docker)](https://github.com/ribato22/nexcal)
 [![Stars](https://img.shields.io/github/stars/ribato22/nexcal?style=for-the-badge&logo=github)](https://github.com/ribato22/nexcal/stargazers)
 
