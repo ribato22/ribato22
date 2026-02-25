@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d26a,100:25D366&height=220&section=header&text=Rizky%20Bachtiar%20Irwanto&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Open%20Source%20Enthusiast%20%E2%80%A2%20Self-Hosting%20Advocate&descSize=14&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=25D366&center=true&vCenter=true&random=false&width=600&lines=Building+VoltBio+%7C+Zero-Backend+Link-in-Bio;Building+BillKu+%7C+Open+Source+Billing;Building+MultiWA+%7C+WhatsApp+API+Gateway;Self-Hosting+Everything;TypeScript+%2B+NestJS+%2B+Next.js;Automation+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=25D366&center=true&vCenter=true&random=false&width=600&lines=Building+NexCal+%7C+Self-Hosted+Booking+System;Building+VoltBio+%7C+Zero-Backend+Link-in-Bio;Building+BillKu+%7C+Open+Source+Billing;Building+MultiWA+%7C+WhatsApp+API+Gateway;Self-Hosting+Everything;TypeScript+%2B+NestJS+%2B+Next.js;Automation+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
 
 <br/>
 
@@ -24,12 +24,13 @@ const rizky = {
   location: "Batam, Indonesia",
   role: "Full-Stack Developer",
   focus: ["WhatsApp APIs", "Enterprise Tools", "Self-Hosted Solutions"],
-  currentProject: "BillKu — Open Source Billing Platform & MultiWA",
+  currentProject: "NexCal — Self-Hosted Booking System & MultiWA",
   funFact: "I self-host everything I can!",
 };
 ```
 
 ### What I'm working on
+- **[NexCal](https://github.com/ribato22/nexcal)** — Self-Hosted Booking System with 3-Layer Anti Double-Booking
 - **[VoltBio](https://github.com/ribato22/voltbio)** — Zero-Backend Link-in-Bio Builder with PWA & Static Export
 - **[BillKu](https://github.com/ribato22/BillKu)** — Open Source Billing & Business Management Platform
 - **[MultiWA](https://github.com/ribato22/MultiWA)** — Open Source WhatsApp Business API Gateway
@@ -56,6 +57,18 @@ const rizky = {
 [![v2.0.0](https://img.shields.io/badge/Release-v2.0.0-a78bfa?style=for-the-badge&labelColor=0d1117)](https://github.com/ribato22/voltbio/releases/tag/v2.0.0)
 [![Stars](https://img.shields.io/github/stars/ribato22/voltbio?style=for-the-badge&logo=github)](https://github.com/ribato22/voltbio/stargazers)
 [![Demo](https://img.shields.io/badge/Live_Demo-▶-25D366?style=for-the-badge&labelColor=0d1117)](https://ribato22.github.io/voltbio/)
+
+<br/>
+
+### [📅 NexCal — Self-Hosted Booking System](https://github.com/ribato22/nexcal)
+
+> **Next.js 16** | **PostgreSQL** | **Docker-Ready** | **Privacy-First**
+>
+> A free, open-source Calendly alternative for healthcare practitioners. Features a public booking wizard, admin dashboard with real-time stats, schedule management, and a **3-Layer Anti Double-Booking** system (Zod → Slot Re-check → DB Constraint) that guarantees zero conflicts.
+
+[![v1.0.0](https://img.shields.io/badge/Release-v1.0.0-06B6D4?style=for-the-badge&labelColor=0d1117)](https://github.com/ribato22/nexcal/releases/tag/v1.0.0)
+[![Self-Hosted](https://img.shields.io/badge/Self--Hosted-Docker-2496ED?style=for-the-badge&labelColor=0d1117&logo=docker)](https://github.com/ribato22/nexcal)
+[![Stars](https://img.shields.io/github/stars/ribato22/nexcal?style=for-the-badge&logo=github)](https://github.com/ribato22/nexcal/stargazers)
 
 <br/>
 
