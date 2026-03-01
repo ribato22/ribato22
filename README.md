@@ -125,11 +125,6 @@ const rizky = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ribato22&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&icon_color=25D366&title_color=25D366&text_color=c9d1d9&hide_border=false&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribato22&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=25D366&text_color=c9d1d9&hide_border=false&langs_count=8" height="170" />
-
-<br/>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=ribato22&theme=dark&background=0D1117&border=30363D&stroke=25D366&ring=25D366&fire=FF6B6B&currStreakLabel=25D366&sideLabels=c9d1d9&dates=586069)](https://git.io/streak-stats)
 
 </div>
