@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d26a,100:25D366&height=220&section=header&text=Rizky%20Bachtiar%20Irwanto&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Open%20Source%20Architect%20%E2%80%A2%20Self-Hosting%20Advocate&descSize=14&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=25D366&center=true&vCenter=true&random=false&width=600&lines=Building+PulseCast+%7C+Enterprise+DOOH+SaaS;Building+Baton+%7C+Multi-Model+AI+Orchestration;Building+NexCal+%7C+Self-Hosted+Booking+System;Building+VoltBio+%7C+Zero-Backend+Link-in-Bio;Building+MultiWA+%7C+WhatsApp+API+Gateway;Self-Hosting+Everything;TypeScript+%2B+NestJS+%2B+Next.js;Open+Source+Architect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=25D366&center=true&vCenter=true&random=false&width=600&lines=Building+PulseCast+%7C+Enterprise+DOOH+SaaS;Building+Volante+%7C+User-Owned+LLM+Router;Building+NexCal+%7C+Self-Hosted+Booking+System;Building+VoltBio+%7C+Zero-Backend+Link-in-Bio;Building+MultiWA+%7C+WhatsApp+API+Gateway;Self-Hosting+Everything;TypeScript+%2B+NestJS+%2B+Next.js;Open+Source+Architect)](https://git.io/typing-svg)
 
 <br/>
 
@@ -31,7 +31,7 @@ const rizky = {
 
 ### What I'm working on
 - 📡 **[PulseCast](https://github.com/ribato22/pulsecast)** — Enterprise DOOH SaaS Platform with SSE Real-Time Sync, Emergency Override, 6-Tier RBAC & Multi-Tenant White-Labeling
-- 🎼 **[Baton](https://github.com/ribato22/baton)** — Cross-Provider Multi-Model AI Orchestration Engine (MCP server, quality-first routing) — on PyPI & the official MCP Registry
+- ⚽ **[Volante](https://github.com/ribato22/volante)** — Transparent, user-owned model router & orchestration control plane (MCP server, auditable routing) — on PyPI & the official MCP Registry
 - 📅 **[NexCal](https://github.com/ribato22/nexcal)** — B2B SaaS Booking System with Multi-Provider RBAC & 3-Layer Anti Double-Booking
 - ⚡ **[VoltBio](https://github.com/ribato22/voltbio)** — Zero-Backend Link-in-Bio Builder with PWA, AES-256 Encryption & Static HTML Export
 - 💰 **[BillKu](https://github.com/ribato22/BillKu)** — Open Source Billing & Receivables Platform with Team RBAC & Recurring Invoices
@@ -61,14 +61,14 @@ const rizky = {
 
 <br/>
 
-### [🎼 Baton — Multi-Model AI Orchestration Engine](https://github.com/ribato22/baton)
-> **Cross-Provider** | **MCP Server** | **Quality-First Routing** | **Python**
+### [⚽ Volante — User-Owned Model Router & Orchestration Control Plane](https://github.com/ribato22/volante)
+> **Cross-Provider** | **MCP Server** | **Auditable Routing** | **Python**
 >
-> A cross-provider AI orchestration engine: a *supervisor* plans a task DAG, *routes* each sub-task to the best-quality capable model (Anthropic, any OpenAI-compatible endpoint, Ollama), runs it one-shot or in an agentic tool loop, then *synthesizes* a final answer. Ships a CLI, a live Web UI, and an MCP server — listed in the official MCP Registry and installable via `pip` / `uvx`.
+> A transparent, user-owned model router: a *supervisor* plans a task DAG, hard capability constraints are enforced first, then each sub-task is *routed* to the best predicted fit across your own configured models (Anthropic, any OpenAI-compatible endpoint, Ollama, Claude Code, Codex) and run one-shot or in an agentic tool loop — with a full, auditable decision trace and honest cash-vs-plan-credit accounting. Ships a CLI, a live Web UI, and an MCP server — listed in the official MCP Registry and installable via `pip` / `uvx`.
 
-[![PyPI](https://img.shields.io/pypi/v/baton-orchestrator?style=for-the-badge&labelColor=0d1117&logo=pypi&logoColor=white)](https://pypi.org/project/baton-orchestrator/)
+[![PyPI](https://img.shields.io/pypi/v/volante?style=for-the-badge&labelColor=0d1117&logo=pypi&logoColor=white)](https://pypi.org/project/volante/)
 [![MCP Registry](https://img.shields.io/badge/MCP_Registry-listed-8b5cf6?style=for-the-badge&labelColor=0d1117)](https://registry.modelcontextprotocol.io)
-[![Stars](https://img.shields.io/github/stars/ribato22/baton?style=for-the-badge&logo=github)](https://github.com/ribato22/baton/stargazers)
+[![Stars](https://img.shields.io/github/stars/ribato22/volante?style=for-the-badge&logo=github)](https://github.com/ribato22/volante/stargazers)
 
 <br/>
 
