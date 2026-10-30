@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d26a,100:25D366&height=220&section=header&text=Rizky%20Bachtiar%20Irwanto&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Open%20Source%20Architect%20%E2%80%A2%20Self-Hosting%20Advocate&descSize=14&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=25D366&center=true&vCenter=true&random=false&width=600&lines=Building+PulseCast+%7C+Enterprise+DOOH+SaaS;Building+Volante+%7C+User-Owned+LLM+Router;Building+NexCal+%7C+Self-Hosted+Booking+System;Building+VoltBio+%7C+Zero-Backend+Link-in-Bio;Building+MultiWA+%7C+WhatsApp+API+Gateway;Self-Hosting+Everything;TypeScript+%2B+NestJS+%2B+Next.js;Open+Source+Architect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=25D366&center=true&vCenter=true&random=false&width=600&lines=Building+vibecheck+%7C+Security+Audit+for+AI-Built+Apps;Building+MultiWA+%7C+WhatsApp+API+Gateway;Building+NexCal+%7C+Self-Hosted+Booking+System;Building+BillKu+%7C+Open-Source+Billing;Self-Hosting+Everything;TypeScript+%2B+NestJS+%2B+Next.js;Open+Source+Architect)](https://git.io/typing-svg)
 
 <br/>
 
@@ -24,18 +24,17 @@ const rizky = {
   location: "Batam, Indonesia",
   role: "Full-Stack Developer",
   focus: ["Enterprise SaaS", "WhatsApp APIs", "Real-Time Systems", "Self-Hosted Solutions"],
-  flagship: "PulseCast — Enterprise DOOH Platform with SSE Real-Time Sync",
+  flagship: "MultiWA — Self-Hosted WhatsApp Business API Gateway",
+  latest: "vibecheck — Pre-Launch Security Audit for AI-Built Apps",
   funFact: "I self-host everything I can!",
 };
 ```
 
 ### What I'm working on
-- 📡 **[PulseCast](https://github.com/ribato22/pulsecast)** — Enterprise DOOH SaaS Platform with SSE Real-Time Sync, Emergency Override, 6-Tier RBAC & Multi-Tenant White-Labeling
-- ⚽ **[Volante](https://github.com/ribato22/volante)** — Transparent, user-owned model router & orchestration control plane (MCP server, auditable routing) — on PyPI & the official MCP Registry
-- 📅 **[NexCal](https://github.com/ribato22/nexcal)** — B2B SaaS Booking System with Multi-Provider RBAC & 3-Layer Anti Double-Booking
-- ⚡ **[VoltBio](https://github.com/ribato22/voltbio)** — Zero-Backend Link-in-Bio Builder with PWA, AES-256 Encryption & Static HTML Export
-- 💰 **[BillKu](https://github.com/ribato22/BillKu)** — Open Source Billing & Receivables Platform with Team RBAC & Recurring Invoices
+- 🚦 **[vibecheck](https://github.com/ribato22/vibecheck)** — Pre-launch security audit for AI-built apps: Launch Score, GO / NO-GO verdict & copy-paste fix prompts (Claude Code plugin & Agent Skills)
 - 💬 **[MultiWA](https://github.com/ribato22/MultiWA)** — Self-Hosted WhatsApp Business API Gateway with Multi-Engine Architecture
+- 📅 **[NexCal](https://github.com/ribato22/nexcal)** — B2B SaaS Booking System with Multi-Provider RBAC & 3-Layer Anti Double-Booking
+- 💰 **[BillKu](https://github.com/ribato22/BillKu)** — Open Source Billing & Receivables Platform with Team RBAC & Recurring Invoices
 - 🏭 Enterprise automation tools (AMR, Attendance Systems, CSMS)
 
 ### What drives me
@@ -50,36 +49,24 @@ const rizky = {
 
 <div align="center">
 
-### [📡 PulseCast — Enterprise DOOH SaaS Platform](https://github.com/ribato22/pulsecast)
-> **Multi-Tenant SaaS** | **SSE Real-Time Sync** | **Emergency Override** | **6-Tier RBAC**
+### [🚦 vibecheck — Pre-Launch Security Audit for AI-Built Apps](https://github.com/ribato22/vibecheck)
+> **Claude Code Plugin** | **Agent Skills** | **Zero Dependencies** | **MIT**
 >
-> A production-ready command center for digital signage at scale. Manage hundreds of TV screens across multiple tenants with real-time playlist sync via SSE, one-click emergency broadcast override, approval workflows, PoP analytics, multi-zone layouts, and white-label branding — all from a single dashboard. Docker-ready, self-hosted.
+> Your AI wrote the app; vibecheck makes sure it doesn't leak your users' data, or your wallet. One command gives a **0–100 Launch Score** and a **GO / NO-GO** verdict, with plain-language findings and copy-paste fix prompts. Catches leaked API keys, missing Supabase RLS, open Firebase rules, routes without auth and billing abuse. `/vibecheck:fix` fixes findings one at a time with a test, and `/vibecheck:deploy` catches "works locally, broken in production" before you ship.
 
-[![v2.0.0](https://img.shields.io/badge/Release-v2.0.0-6366F1?style=for-the-badge&labelColor=0d1117)](https://github.com/ribato22/pulsecast/releases/tag/v2.0.0)
-[![Next.js](https://img.shields.io/badge/Next.js_16-000?style=for-the-badge&logo=next.js)](https://github.com/ribato22/pulsecast)
-[![Stars](https://img.shields.io/github/stars/ribato22/pulsecast?style=for-the-badge&logo=github)](https://github.com/ribato22/pulsecast/stargazers)
+[![v1.1.1](https://img.shields.io/badge/Release-v1.1.1-d97757?style=for-the-badge&labelColor=0d1117)](https://github.com/ribato22/vibecheck/releases/tag/v1.1.1)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-plugin-d97757?style=for-the-badge&labelColor=0d1117)](https://github.com/ribato22/vibecheck#install)
+[![Stars](https://img.shields.io/github/stars/ribato22/vibecheck?style=for-the-badge&logo=github)](https://github.com/ribato22/vibecheck/stargazers)
 
 <br/>
 
-### [⚽ Volante — User-Owned Model Router & Orchestration Control Plane](https://github.com/ribato22/volante)
-> **Cross-Provider** | **MCP Server** | **Auditable Routing** | **Python**
+### [💬 MultiWA — WhatsApp Business API Gateway](https://github.com/ribato22/MultiWA)
+> **Open Source** | **Multi-Engine** | **Self-Hosted**
 >
-> A transparent, user-owned model router: a *supervisor* plans a task DAG, hard capability constraints are enforced first, then each sub-task is *routed* to the best predicted fit across your own configured models (Anthropic, any OpenAI-compatible endpoint, Ollama, Claude Code, Codex) and run one-shot or in an agentic tool loop — with a full, auditable decision trace and honest cash-vs-plan-credit accounting. Ships a CLI, a live Web UI, and an MCP server — listed in the official MCP Registry and installable via `pip` / `uvx`.
+> A powerful, self-hosted WhatsApp Business API Gateway built with **NestJS** and **Next.js**. Multi-device support, auto-reconnect, group management, and webhook integration.
 
-[![PyPI](https://img.shields.io/pypi/v/volante?style=for-the-badge&labelColor=0d1117&logo=pypi&logoColor=white)](https://pypi.org/project/volante/)
-[![MCP Registry](https://img.shields.io/badge/MCP_Registry-listed-8b5cf6?style=for-the-badge&labelColor=0d1117)](https://registry.modelcontextprotocol.io)
-[![Stars](https://img.shields.io/github/stars/ribato22/volante?style=for-the-badge&logo=github)](https://github.com/ribato22/volante/stargazers)
-
-<br/>
-
-### [⚡ VoltBio — Zero-Backend Link-in-Bio Builder](https://github.com/ribato22/voltbio)
-> **100% Client-Side** | **PWA Ready** | **Static HTML Export**
->
-> The most powerful zero-backend link-in-bio builder. Design visually with a live editor, export as self-contained static HTML + PWA. Features AES-256 link encryption, QRIS donations, portfolio grid, FAQ accordion, real-time search — all with **zero server, zero database, zero cost**.
-
-[![v2.0.0](https://img.shields.io/badge/Release-v2.0.0-a78bfa?style=for-the-badge&labelColor=0d1117)](https://github.com/ribato22/voltbio/releases/tag/v2.0.0)
-[![Stars](https://img.shields.io/github/stars/ribato22/voltbio?style=for-the-badge&logo=github)](https://github.com/ribato22/voltbio/stargazers)
-[![Demo](https://img.shields.io/badge/Live_Demo-▶-25D366?style=for-the-badge&labelColor=0d1117)](https://ribato22.github.io/voltbio/)
+[![Stars](https://img.shields.io/github/stars/ribato22/MultiWA?style=for-the-badge&logo=github)](https://github.com/ribato22/MultiWA/stargazers)
+[![Docs](https://img.shields.io/badge/Documentation-25D366?style=for-the-badge&labelColor=0d1117&logo=readthedocs&logoColor=white)](https://ribato22.github.io/MultiWA/)
 
 <br/>
 
@@ -101,16 +88,6 @@ const rizky = {
 
 [![Stars](https://img.shields.io/github/stars/ribato22/BillKu?style=for-the-badge&logo=github)](https://github.com/ribato22/BillKu/stargazers)
 [![Docker](https://img.shields.io/badge/Docker-Hub-2496ED?style=for-the-badge&labelColor=0d1117&logo=docker)](https://hub.docker.com/r/ribato/billku)
-
-<br/>
-
-### [💬 MultiWA — WhatsApp Business API Gateway](https://github.com/ribato22/MultiWA)
-> **Open Source** | **Multi-Engine** | **Self-Hosted**
->
-> A powerful, self-hosted WhatsApp Business API Gateway built with **NestJS** and **Next.js**. Multi-device support, auto-reconnect, group management, and webhook integration.
-
-[![Stars](https://img.shields.io/github/stars/ribato22/MultiWA?style=for-the-badge&logo=github)](https://github.com/ribato22/MultiWA/stargazers)
-[![Docs](https://img.shields.io/badge/Documentation-25D366?style=for-the-badge&labelColor=0d1117&logo=readthedocs&logoColor=white)](https://ribato22.github.io/MultiWA/)
 
 </div>
 
