@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d26a,100:25D366&height=220&section=header&text=Rizky%20Bachtiar%20Irwanto&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Open%20Source%20Architect%20%E2%80%A2%20Self-Hosting%20Advocate&descSize=14&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=25D366&center=true&vCenter=true&random=false&width=600&lines=Building+vibecheck+%7C+Security+Audit+for+AI-Built+Apps;Building+MultiWA+%7C+WhatsApp+API+Gateway;Building+NexCal+%7C+Self-Hosted+Booking+System;Building+BillKu+%7C+Open-Source+Billing;Self-Hosting+Everything;TypeScript+%2B+NestJS+%2B+Next.js;Open+Source+Architect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=25D366&center=true&vCenter=true&random=false&width=600&lines=Building+JalaDesk+%7C+Zero-Trust+Remote+Desktop+%26+SRE+Suite;Building+vibecheck+%7C+Security+Audit+for+AI-Built+Apps;Building+MultiWA+%7C+WhatsApp+API+Gateway;Building+NexCal+%7C+Self-Hosted+Booking+System;Building+BillKu+%7C+Open-Source+Billing;Self-Hosting+Everything;TypeScript+%2B+Electron+%2B+Flutter+%2B+C%2B%2B;Open+Source+Architect)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,15 +22,16 @@
 ```typescript
 const rizky = {
   location: "Batam, Indonesia",
-  role: "Full-Stack Developer",
-  focus: ["Enterprise SaaS", "WhatsApp APIs", "Real-Time Systems", "Self-Hosted Solutions"],
+  role: "Full-Stack Developer & Systems Architect",
+  focus: ["Zero-Trust Infrastructure", "Enterprise SaaS", "WhatsApp APIs", "Real-Time Systems", "Self-Hosted Solutions"],
   flagship: "MultiWA — Self-Hosted WhatsApp Business API Gateway",
-  latest: "vibecheck — Pre-Launch Security Audit for AI-Built Apps",
+  latest: "JalaDesk — Unified Remote Desktop (RDP/VNC), SSH/SFTP & 46 SRE/Security Studios",
   funFact: "I self-host everything I can!",
 };
 ```
 
 ### What I'm working on
+- 🛡️ **[JalaDesk](https://github.com/ribato22/jaladesk)** — Unified Multi-Protocol Remote Desktop (Native C++ FreeRDP 3.x / VNC), Interactive SSH & Dual-Pane SFTP, Zero-Trust AES-256-GCM Credential Vault, 46 Built-in SRE/Security Studios & Flutter Mobile Companion (`iOS`, `iPadOS`, `Android`)
 - 🚦 **[vibecheck](https://github.com/ribato22/vibecheck)** — Pre-launch security audit for AI-built apps: Launch Score, GO / NO-GO verdict & copy-paste fix prompts (Claude Code plugin & Agent Skills)
 - 💬 **[MultiWA](https://github.com/ribato22/MultiWA)** — Self-Hosted WhatsApp Business API Gateway with Multi-Engine Architecture
 - 📅 **[NexCal](https://github.com/ribato22/nexcal)** — B2B SaaS Booking System with Multi-Provider RBAC & 3-Layer Anti Double-Booking
@@ -48,6 +49,18 @@ const rizky = {
 ## Featured Projects
 
 <div align="center">
+
+### [🛡️ JalaDesk — Unified Remote Desktop, SSH/SFTP & Zero-Trust SRE Suite](https://github.com/ribato22/jaladesk)
+> **Native FreeRDP 3.x + VNC** | **SSH & Dual-Pane SFTP** | **46 SRE & Security Studios** | **macOS, Windows, iOS & Android** | **Apache-2.0 Open-Core**
+>
+> An enterprise-grade alternative to Royal TSX, Jump Desktop, and Termius in a single zero-trust workspace. Built with a custom **C++17 FreeRDP 3.x / OpenSSL 3.x** bridge (NLA/CredSSP, dynamic display resize, high-precision scroll & directional clipboard), interactive **SSH/Bastion/SFTP Commander**, **AES-256-GCM** encrypted document vault with **RFC 6238 TOTP 2FA**, **46 built-in Network, Security, Virtualization & SRE Studios**, and a **Flutter Mobile Companion** for iOS, iPadOS & Android with precision touch trackpad and QR vault pairing.
+
+[![Desktop](https://img.shields.io/badge/Desktop-macOS_%26_Windows-2F6F9C?style=for-the-badge&labelColor=0E141A&logo=electron&logoColor=5AA2D4)](https://github.com/ribato22/jaladesk)
+[![Mobile](https://img.shields.io/badge/Mobile-iOS_%26_Android-EDBA6E?style=for-the-badge&labelColor=0E141A&logo=flutter&logoColor=EDBA6E)](https://github.com/ribato22/jaladesk/tree/main/mobile)
+[![Studios](https://img.shields.io/badge/Built--in_Studios-46_SRE_%26_SecOps-80D3A3?style=for-the-badge&labelColor=0E141A)](https://github.com/ribato22/jaladesk)
+[![Stars](https://img.shields.io/github/stars/ribato22/jaladesk?style=for-the-badge&logo=github)](https://github.com/ribato22/jaladesk/stargazers)
+
+<br/>
 
 ### [🚦 vibecheck — Pre-Launch Security Audit for AI-Built Apps](https://github.com/ribato22/vibecheck)
 > **Claude Code Plugin** | **Agent Skills** | **Zero Dependencies** | **MIT**
@@ -98,6 +111,9 @@ const rizky = {
 <div align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
