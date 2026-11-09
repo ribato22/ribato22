@@ -53,7 +53,7 @@ const rizky = {
 ### [🛡️ JalaDesk — Unified Remote Desktop, SSH/SFTP & Zero-Trust SRE Suite](https://github.com/ribato22/jaladesk)
 > **Native FreeRDP 3.x + VNC** | **SSH & Dual-Pane SFTP** | **46 SRE & Security Studios** | **macOS, Windows, iOS & Android** | **Apache-2.0 Open-Core**
 >
-> An enterprise-grade alternative to Royal TSX, Jump Desktop, and Termius in a single zero-trust workspace. Built with a custom **C++17 FreeRDP 3.x / OpenSSL 3.x** bridge (NLA/CredSSP, dynamic display resize, high-precision scroll & directional clipboard), interactive **SSH/Bastion/SFTP Commander**, **AES-256-GCM** encrypted document vault with **RFC 6238 TOTP 2FA**, **46 built-in Network, Security, Virtualization & SRE Studios**, and a **Flutter Mobile Companion** for iOS, iPadOS & Android with precision touch trackpad and QR vault pairing.
+> A unified multi-protocol remote desktop, infrastructure management, and zero-trust operations platform. Built with a custom **C++17 FreeRDP 3.x / OpenSSL 3.x** bridge (NLA/CredSSP, dynamic display resize, high-precision scroll & directional clipboard), interactive **SSH/Bastion/SFTP Commander**, **AES-256-GCM** encrypted document vault with **RFC 6238 TOTP 2FA**, **46 built-in Network, Security, Virtualization & SRE Studios**, and a **Flutter Mobile Companion** for iOS, iPadOS & Android with precision touch trackpad and QR vault pairing.
 
 [![Desktop](https://img.shields.io/badge/Desktop-macOS_%26_Windows-2F6F9C?style=for-the-badge&labelColor=0E141A&logo=electron&logoColor=5AA2D4)](https://github.com/ribato22/jaladesk)
 [![Mobile](https://img.shields.io/badge/Mobile-iOS_%26_Android-EDBA6E?style=for-the-badge&labelColor=0E141A&logo=flutter&logoColor=EDBA6E)](https://github.com/ribato22/jaladesk/tree/main/mobile)
